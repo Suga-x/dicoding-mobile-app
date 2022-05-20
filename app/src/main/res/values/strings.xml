@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">dcodingSubmission</string>
+    <string name="nama_band">Nama Band</string>
+    <string name="deskripsi_band">deskripsi_band</string>
+    <string name="profile">Profile</string>
+    <string name="agus_rian_s">Agus Rian S</string>
+    <string name="deskripsi_diri">Deskripsi Diri:</string>
+    <string name="saya_merupakan_seorang_pekerja_keras_dan_rajin_belajar">Saya merupakan seorang pekerja keras dan rajin belajar</string>
+    <string name="pekerjaan">Pekerjaan:</string>
+    <string name="mahasiswa">Mahasiswa</string>
+    <string name="universitas_pendidikan_indonesia">Universitas Pendidikan Indonesia</string>
+    <string name="asal_institusi">Asal Institusi</string>
+    <string name="agusrian2903_gmail_com">Agusrian2903@gmail.com</string>
+    <string name="metal_app">Metal App</string>
+</resources>
